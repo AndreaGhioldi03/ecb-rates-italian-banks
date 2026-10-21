@@ -1,7 +1,8 @@
 # How did Italian banks react to ECB rate decisions?
 
-Event study on 6 Italian listed banks (Intesa Sanpaolo, UniCredit, Banco BPM,
-BPER, MPS, Mediobanca) around ECB monetary policy meetings, July 2022 – 2025.
+Event study on 5 Italian listed banks (Intesa Sanpaolo, UniCredit, Banco BPM,
+BPER, MPS) around ECB monetary policy meetings, July 2022 – 2025.
+*Mediobanca is excluded: it was merged into MPS and delisted in 2026.*
 
 ## Question
 Do Italian bank stocks outperform or underperform the market (FTSE MIB)
